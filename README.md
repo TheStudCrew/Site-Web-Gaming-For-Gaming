@@ -8,7 +8,7 @@ Gaming For Society is born in classroom. The idea was to make a website talking 
 the video games and their impacts in the society. With sources and interesting studies.
 Talking about on different subjects philosophy, history and many more. Another goal of
 the project is to program in HTML, CSS, JS. Some assets will be changed in the future and
-some features can be also implemented.
+some features can be also implemented. Help and suggestions are appreciated.
 
 
 A website powered on hosted on Github.
