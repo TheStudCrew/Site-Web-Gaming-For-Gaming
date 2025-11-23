@@ -10,6 +10,13 @@ Talking about on different subjects philosophy, history and many more. Another g
 the project is to program in HTML, CSS, JS. Some assets will be changed in the future and
 some features can be also implemented. Help and suggestions are appreciated.
 
+<img src="wireframe.jpg" alt="My image" width="400" style="display: block; margin: 0 auto;">
+Wireframe of the website in my SketchBOOK
+
+
+
+
+
 
 A website powered on hosted on Github.
 
